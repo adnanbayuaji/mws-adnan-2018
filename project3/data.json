@@ -1,0 +1,22 @@
+{
+  "places" : [
+    {
+      "location": [21.422487, 39.826206],
+      "title"   : "Kabah",
+      "image"   :"../images/kabah.jpg",
+      "review"  : "<p> adalah sebuah bangunan di tengah-tengah masjid paling suci dalam agama Islam, Masjidil Haram, di Mekkah, Hejaz, Arab Saudi. Tempat ini adalah tempat yang paling disucikan dalam agama Islam.</p>"
+    },
+    {
+      "location": [24.468, 39.6118],
+      "title"   : "Masjid Nabawi",
+      "image"   :"../images/nabawi.jpg",
+      "review"  : "<p>Masjid Nabawi adalah sebuah masjid yang didirikan secara langsung oleh Nabi Muhammad, berlokasi di pusat kota Madinah di Arab Saudi. Masjid Nabawi merupakan masjid ketiga yang dibangun dalam sejarah Islam dan kini menjadi salah satu masjid terbesar di dunia. Masjid ini menjadi tempat paling suci kedua dalam agama Islam, setelah Masjidil Haram di Mekkah. Masjid ini di buka setiap hari.</p>"
+    },
+    {
+      "location": [30.148839, 31.394958],
+      "title"   : "Masjid al-Aqsa",
+      "image"   :"../images/aqsa.jpg",
+      "review"  : "<p>Masjid al aqsa adalah nama sebuah kompleks seluas 144.000 meter persegi yang berada di Kota Lama Yerusalem. Kompleks ini menjadi tempat yang disucikan oleh umat Islam, Yahudi, dan Kristen. Tempat ini sering dikelirukan dengan Jami' Al Aqsha atau Masjid Al Qibli.</p>"
+    }
+  ]
+}
