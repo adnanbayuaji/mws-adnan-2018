@@ -34,7 +34,7 @@ function setView() {
 }
 
 // Initiate map
-let myMap = L.map('map').setView([48.021193, 4.995559], 6);
+let myMap = L.map('map').setView([24.468, 39.6118], 4);
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}',
     {
         attribution: '© <a href="https://www.mapbox.com/">Mapbox</a>',
